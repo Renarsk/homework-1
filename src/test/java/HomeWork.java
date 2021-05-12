@@ -91,6 +91,9 @@ public class HomeWork {
 
     }
 
+
+    // Gets article title with comment count
+
     @Test
     public void printArticlesWithCommentCountInConsole() {
         System.setProperty("webdriver.chrome.driver", "/Users/iMac/chromedriver");
